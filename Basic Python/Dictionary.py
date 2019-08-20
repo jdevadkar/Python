@@ -1,0 +1,2 @@
+# Created Empty dictionary.
+dict = {}
